@@ -11,5 +11,5 @@ Features
 Tech used
 1. HTML - For webpage structure
 2. CSS - For layout and styling
-3.  JavaScript - For dynamic and interactive behavior
+3. JavaScript - For dynamic and interactive behavior
    
